@@ -40,7 +40,7 @@ Due to file size and licensing restrictions, not all raw or intermediate data fi
 
 1. Run:
    ```bash
-   python code/01_fetch_osm_data.py
+   python code/P00_Data_Extraction.py
    ```
    This will query OSM and create `pharmacies.csv` and `amenities.csv`.
 
@@ -48,9 +48,9 @@ Due to file size and licensing restrictions, not all raw or intermediate data fi
 
 3. Run:
    ```bash
-   python code/02_descriptives_urbanicity.py
-   python code/03_kmedoids_clustering.py
-   python code/04_geographic_plots.py
+   python code/P01_UrbanicityIndex.py
+   python code/P02_KMedoids_Clustering.py
+   python code/P03_ClusterGeog.py
    ```
 
 ---
