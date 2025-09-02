@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv
+venv/
+# Data & outputs
+/data/raw/
+*.gpkg
+*.shp
+*.tif
+*.zip
+*.parquet
+*.geojson
