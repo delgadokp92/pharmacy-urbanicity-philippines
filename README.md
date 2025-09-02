@@ -63,10 +63,10 @@ Figures and tables in `/results` correspond to the manuscript figures, including
    ```
 
 3. Run scripts in `/code` sequentially:
-   - `01_fetch_osm_data.py` → Pull raw OSM and join PSA shapefiles
-   - `02_descriptives_urbanicity.py` → Compute urbanicity index
-   - `03_kmedoids_clustering.py` → Perform clustering and validation
-   - `04_geographic_plots.py` → Generate maps and figures
+   - `P00_Data_Extraction.py` → Pull raw OSM and join PSA shapefiles
+   - `P01_UrbanicityIndex.py` → Compute urbanicity index
+   - `P02_KMedoids_Clustering.py` → Perform clustering and validation
+   - `P03_ClusterGeog.py` → Generate maps and figures
 
 ---
 
