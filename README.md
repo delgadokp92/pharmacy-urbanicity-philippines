@@ -7,7 +7,7 @@ The project integrates OpenStreetMap (OSM) amenities, Philippine Statistics Auth
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -21,7 +21,7 @@ The project integrates OpenStreetMap (OSM) amenities, Philippine Statistics Auth
 
 ---
 
-## 📊 Data Availability
+## Data Availability
 
 - **Included in `/data`:**
   - Selected processed CSVs required to reproduce analysis:
@@ -38,7 +38,7 @@ See `/data/README.md` for instructions on retrieving missing files.
 
 ---
 
-## 📈 Results
+## Results
 
 Figures and tables in `/results` correspond to the manuscript figures, including:
 - Elbow and Silhouette validation plots
@@ -49,7 +49,7 @@ Figures and tables in `/results` correspond to the manuscript figures, including
 
 ---
 
-## ⚙️ Reproducibility
+## Reproducibility
 
 1. Clone this repository:
    ```bash
@@ -70,7 +70,7 @@ Figures and tables in `/results` correspond to the manuscript figures, including
 
 ---
 
-## 📜 License
+## License
 
 - **Code:** MIT License  
 - **Data (processed):** Creative Commons Attribution 4.0 (CC BY 4.0)  
@@ -78,7 +78,7 @@ Figures and tables in `/results` correspond to the manuscript figures, including
 
 ---
 
-## ✉️ Contact
+## Contact
 
 For questions, please contact:  
 **[Your Name]** – [your.email@example.com]
